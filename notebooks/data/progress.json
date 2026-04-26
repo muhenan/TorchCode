@@ -7,9 +7,9 @@
   },
   "softmax": {
     "status": "solved",
-    "solved_at": "2026-04-26T16:25:01.509086",
+    "solved_at": "2026-04-26T20:53:54.630549",
     "best_time": 0.0037529590000531243,
-    "attempts": 1
+    "attempts": 2
   },
   "linear": {
     "status": "solved",
