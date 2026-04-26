@@ -34,5 +34,11 @@
     "solved_at": "2026-04-26T19:53:58.534140",
     "best_time": 0.01484749900191673,
     "attempts": 1
+  },
+  "rmsnorm": {
+    "status": "solved",
+    "solved_at": "2026-04-26T20:08:52.268629",
+    "best_time": 0.0012967500006197952,
+    "attempts": 4
   }
 }
