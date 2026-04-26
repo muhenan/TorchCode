@@ -40,5 +40,11 @@
     "solved_at": "2026-04-26T20:08:52.268629",
     "best_time": 0.0012967500006197952,
     "attempts": 4
+  },
+  "causal_attention": {
+    "status": "solved",
+    "solved_at": "2026-04-26T20:47:12.149447",
+    "best_time": 0.03417237600660883,
+    "attempts": 1
   }
 }
