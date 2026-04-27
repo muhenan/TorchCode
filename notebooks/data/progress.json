@@ -64,5 +64,11 @@
     "solved_at": "2026-04-26T22:54:08.815769",
     "best_time": 0.022626999005296966,
     "attempts": 1
+  },
+  "cross_entropy": {
+    "status": "solved",
+    "attempts": 5,
+    "solved_at": "2026-04-27T17:38:00.489244",
+    "best_time": 0.023224459000630304
   }
 }
