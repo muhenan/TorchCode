@@ -70,5 +70,11 @@
     "attempts": 5,
     "solved_at": "2026-04-27T17:38:00.489244",
     "best_time": 0.023224459000630304
+  },
+  "dropout": {
+    "status": "solved",
+    "solved_at": "2026-04-27T19:48:14.493921",
+    "best_time": 0.07214983400626807,
+    "attempts": 1
   }
 }
