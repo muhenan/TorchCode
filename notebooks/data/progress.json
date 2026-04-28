@@ -88,5 +88,11 @@
     "solved_at": "2026-04-27T21:05:59.784020",
     "best_time": 0.024790417010081,
     "attempts": 1
+  },
+  "weight_init": {
+    "status": "solved",
+    "solved_at": "2026-04-28T00:32:33.643774",
+    "best_time": 0.015396707996842451,
+    "attempts": 1
   }
 }
